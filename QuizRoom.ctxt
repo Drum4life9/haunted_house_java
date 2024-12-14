@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=QuizRoom
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ QuizRoom\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=i\ a
+comment1.target=QuizRoom(int,\ int)
+comment2.params=lis
+comment2.target=void\ setAnswers(java.util.ArrayList)
+comment3.params=s
+comment3.target=void\ setQuiz(java.lang.String)
+comment4.params=
+comment4.target=void\ activateRoom()
+numComments=5

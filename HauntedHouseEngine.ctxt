@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=HauntedHouseEngine
+comment0.text=\r\n\ The\ Escape\ Engine\ generates\ a\ "maze-like"\ house\ with\ rooms.\ \ It\ then\ \r\n\ controls\ game\ play\ to\ allow\ players\ to\ find\ their\ way\ out\ of\ the\ house.\r\n\ @author\ \ B.\ Myers\r\n\ @version\ 18\ November\ 2019\r\n
+comment1.params=
+comment1.target=void\ runEngine()
+comment2.params=
+comment2.target=void\ buildRooms()
+comment2.text=\r\n\ Build\ each\ room\ of\ the\ house.\r\n
+comment3.params=
+comment3.target=void\ displayTitle()
+comment3.text=\r\n\ Display\ the\ title\ using\ ASCII\ art\ and\ escape\ keys.\r\n\ @see\ https\://www.asciiart.eu/buildings-and-places/houses\r\n
+comment4.params=inp
+comment4.target=int[]\ createCombo(int)
+comment5.params=i
+comment5.target=void\ completeComboNum(int)
+comment6.params=
+comment6.target=void\ printInv()
+comment7.params=
+comment7.target=void\ printMap()
+numComments=8
